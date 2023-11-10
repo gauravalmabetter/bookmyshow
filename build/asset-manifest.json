@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.86e53aab.css",
-    "main.js": "/static/js/main.a6dc5cfd.js",
+    "main.js": "/static/js/main.f37e48ec.js",
     "static/media/road.jpg": "/static/media/road.904742b1428d46efaf9d.jpg",
     "static/media/bookmyshow.png": "/static/media/bookmyshow.235d787db2aa79cd69a5.png",
     "index.html": "/index.html",
     "main.86e53aab.css.map": "/static/css/main.86e53aab.css.map",
-    "main.a6dc5cfd.js.map": "/static/js/main.a6dc5cfd.js.map"
+    "main.f37e48ec.js.map": "/static/js/main.f37e48ec.js.map"
   },
   "entrypoints": [
     "static/css/main.86e53aab.css",
-    "static/js/main.a6dc5cfd.js"
+    "static/js/main.f37e48ec.js"
   ]
 }
